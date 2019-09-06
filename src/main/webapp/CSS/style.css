@@ -1,0 +1,39 @@
+.header{
+    height:70px;
+    background-color: rgb(32, 89, 146);
+    color: white;
+}
+.nav{
+    background-color: rgb(65, 58, 58);
+    color:white;
+}
+.Absolute-Center {
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .Absolute-Center.is-Responsive {
+    width: 50%; 
+    height: 50%;
+    margin-right: 200px;
+    padding: 40px;
+  }
+  .footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color: rgb(32, 89, 146);
+    color:white;
+    height:45px;
+  }
+  #table{
+  margin-top:250px;
+  width:50%;
+  height:50%;
+ 
+  }
+  th{
+  background-color:rgb(32, 89, 146);
+  color:white;
+  }
